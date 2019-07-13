@@ -15,3 +15,5 @@
 but when you start to do it ,you'll find the most difficult things is not writing it but about how to consist on it.
 
 So, maybe we can just persist on finishing leetcode problem at first.
+
+Keep on 100 day, may be is easier than getting a list on a year.
