@@ -1,6 +1,7 @@
-# what is arts
+# Leetocode 100 day
+ hi everyone, welcome to leetcode 100 day.
 
- ARTS is a activity for those who join chenHao's reader club.Here you are expected to do these weekly:
+ At first this is a activity for those who join chenHao's reader club,members are expected to do these weekly, we called it **ARTS** :
 
 - A -- Algorithm an Algorithm Problem  
 
@@ -11,4 +12,6 @@
 - S -- Share  your experience in work,learning or sth else.
 
 
-Once you are in the club, you've got the promise of keeping doing this at least a year.
+but when you start to do it ,you'll find the most difficult things is not writing it but about how to consist on it.
+
+So, maybe we can just persist on finishing leetcode problem at first.
