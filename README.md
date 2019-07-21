@@ -1,19 +1,7 @@
-# Leetocode 100 day
- hi everyone, welcome to leetcode 100 day.
+# Leetocode 100 day (leetcode百题斩）
 
- At first this is a activity for those who join chenHao's reader club,members are expected to do these weekly, we called it **ARTS** :
+IT界的开发人员面试、日常开发总是会少不了算法这一关。
 
-- A -- Algorithm an Algorithm Problem  
+而面试准备时，刷leetcode就如同高考前刷模拟题一样平常，但刷了这么多题之后，不知道大家再来一道新的题目后，是可以迅速找到解决办法，还是说要绞尽脑汁得再想半天？
 
-- R -- Review read a technical article and review it.
-
-- T -- Tip  the skill you've learned this week
-
-- S -- Share  your experience in work,learning or sth else.
-
-
-but when you start to do it ,you'll find the most difficult things is not writing it but about how to consist on it.
-
-So, maybe we can just persist on finishing leetcode problem at first.
-
-Keep on 100 day, may be is easier than getting a list on a year.
+在这里，我将总结出leetcode刷题的思（tao）路(lu)与大家进行分享，希望无论是在面试还是在日常开发中，都能帮你快速的get到正确的方案。
